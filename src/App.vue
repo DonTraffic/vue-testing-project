@@ -103,7 +103,7 @@ export default {
 
       }
 
-      if (status) window.location.href = 'index.html'
+      if (status) alert('Данные отправлены, спасибо за обратную связь')
 
     }
 
